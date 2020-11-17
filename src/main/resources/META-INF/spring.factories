@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.laogao.study.selector.Config02,\
+com.laogao.study.selector.Config03
